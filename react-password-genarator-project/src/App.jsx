@@ -36,7 +36,7 @@ function App() {
     passwordGenerator()
 
     
-  },[length,number,character,passwordGenerator])
+  }[length,number,character,passwordGenerator])
 
   return (
     <>
